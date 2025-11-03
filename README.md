@@ -15,7 +15,7 @@ Key Fields: customer_id, gender, age_groups, item_purchased, category, purchase_
 
 Python: pandas, numpy, matplotlib, seaborn
 
-SQL: SQL Server / PostgreSQL / MySQL
+SQL: SQL Server
 
 Power BI: Visualization dashboard
 
