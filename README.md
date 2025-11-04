@@ -1,7 +1,7 @@
 # 🧠 Customer Trends Data Analytics Project
 📋 Overview
 
-This project analyzes customer purchasing behavior using Python and SQL to uncover insights on spending patterns, loyalty, and discounts. It demonstrates data cleaning, exploratory data analysis (EDA), and SQL-based business intelligence.
+This project analyzes customer purchasing behavior trend using Python and SQL to uncover insights on spending patterns, loyalty, and discounts. It demonstrates data cleaning, exploratory data analysis (EDA), and SQL-based business intelligence.
 
 📂 Dataset
 
